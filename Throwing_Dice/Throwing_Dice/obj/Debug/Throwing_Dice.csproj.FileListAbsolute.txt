@@ -1,0 +1,6 @@
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Throwing_Dice\Throwing_Dice\bin\Debug\Throwing_Dice.exe.config
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Throwing_Dice\Throwing_Dice\bin\Debug\Throwing_Dice.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Throwing_Dice\Throwing_Dice\bin\Debug\Throwing_Dice.pdb
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Throwing_Dice\Throwing_Dice\obj\Debug\Throwing_Dice.csprojResolveAssemblyReference.cache
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Throwing_Dice\Throwing_Dice\obj\Debug\Throwing_Dice.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Throwing_Dice\Throwing_Dice\obj\Debug\Throwing_Dice.pdb

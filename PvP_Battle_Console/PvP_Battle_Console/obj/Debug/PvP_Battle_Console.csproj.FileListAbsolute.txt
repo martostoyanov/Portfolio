@@ -1,0 +1,6 @@
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\PvP_Battle_Console\PvP_Battle_Console\bin\Debug\PvP_Battle_Console.exe.config
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\PvP_Battle_Console\PvP_Battle_Console\bin\Debug\PvP_Battle_Console.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\PvP_Battle_Console\PvP_Battle_Console\bin\Debug\PvP_Battle_Console.pdb
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\PvP_Battle_Console\PvP_Battle_Console\obj\Debug\PvP_Battle_Console.csprojResolveAssemblyReference.cache
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\PvP_Battle_Console\PvP_Battle_Console\obj\Debug\PvP_Battle_Console.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\PvP_Battle_Console\PvP_Battle_Console\obj\Debug\PvP_Battle_Console.pdb
