@@ -1,0 +1,5 @@
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Ezi ili tura\bin\Debug\Ezi ili tura.exe.config
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Ezi ili tura\bin\Debug\Ezi ili tura.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Ezi ili tura\bin\Debug\Ezi ili tura.pdb
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Ezi ili tura\obj\Debug\Ezi ili tura.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Ezi ili tura\obj\Debug\Ezi ili tura.pdb

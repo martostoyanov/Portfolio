@@ -1,0 +1,6 @@
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Random_freestyle\bin\Debug\Random_freestyle.exe.config
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Random_freestyle\bin\Debug\Random_freestyle.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Random_freestyle\bin\Debug\Random_freestyle.pdb
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Random_freestyle\obj\Debug\Generator_imena.csprojResolveAssemblyReference.cache
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Random_freestyle\obj\Debug\Random_freestyle.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Random_freestyle\obj\Debug\Random_freestyle.pdb

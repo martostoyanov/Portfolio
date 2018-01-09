@@ -1,0 +1,5 @@
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Sumator Random Chisla\bin\Debug\Sumator Random Chisla.exe.config
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Sumator Random Chisla\bin\Debug\Sumator Random Chisla.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Sumator Random Chisla\bin\Debug\Sumator Random Chisla.pdb
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Sumator Random Chisla\obj\Debug\Sumator Random Chisla.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Random_freestyle\Sumator Random Chisla\obj\Debug\Sumator Random Chisla.pdb
