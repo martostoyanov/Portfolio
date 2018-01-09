@@ -1,0 +1,9 @@
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Moving_Character\Moving_Character\bin\Debug\Moving_Character.exe.config
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Moving_Character\Moving_Character\bin\Debug\Moving_Character.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Moving_Character\Moving_Character\bin\Debug\Moving_Character.pdb
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Moving_Character\Moving_Character\obj\Debug\Moving_Character.csprojResolveAssemblyReference.cache
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Moving_Character\Moving_Character\obj\Debug\Moving_Character.Form1.resources
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Moving_Character\Moving_Character\obj\Debug\Moving_Character.Properties.Resources.resources
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Moving_Character\Moving_Character\obj\Debug\Moving_Character.csproj.GenerateResource.Cache
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Moving_Character\Moving_Character\obj\Debug\Moving_Character.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Moving_Character\Moving_Character\obj\Debug\Moving_Character.pdb

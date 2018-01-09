@@ -1,0 +1,10 @@
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Paint\Paint\obj\Debug\Paint.Form2.resources
