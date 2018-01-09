@@ -1,0 +1,6 @@
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Calculator_console\Calculator_console\bin\Debug\Calculator_console.exe.config
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Calculator_console\Calculator_console\bin\Debug\Calculator_console.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Calculator_console\Calculator_console\bin\Debug\Calculator_console.pdb
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Calculator_console\Calculator_console\obj\Debug\Calculator_console.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Calculator_console\Calculator_console\obj\Debug\Calculator_console.pdb
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\Calculator_console\Calculator_console\obj\Debug\Calculator_console.csprojResolveAssemblyReference.cache

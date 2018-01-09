@@ -1,0 +1,6 @@
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\CodeWars\Main\bin\Debug\Main.exe.config
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\CodeWars\Main\bin\Debug\Main.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\CodeWars\Main\bin\Debug\Main.pdb
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\CodeWars\Main\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\CodeWars\Main\obj\Debug\Main.exe
+C:\Users\rt20bg\Desktop\Maya's workplace\Programming training\CodeWars\Main\obj\Debug\Main.pdb
