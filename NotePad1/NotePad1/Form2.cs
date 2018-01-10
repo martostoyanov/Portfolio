@@ -19,7 +19,7 @@ namespace NotePad1
 
         private void label1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Version 0.1. Made by Maya :) ^_^!";
+            label1.Text = "Version 1.0 Made by nighraiin :)!";
         }
     }
 }
